@@ -12,7 +12,7 @@
     props: [],
     data() {
       return {
-
+        //Some Comment.
       }
     },
     mount() {
